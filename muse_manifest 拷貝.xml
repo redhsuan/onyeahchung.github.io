@@ -1,0 +1,88 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="alynachung.github.io" resolutions="1x" timestamp="1578550510095">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="poster.css" crc="4043819268" ref="poster"/>
+    <file name="judy.css" crc="421667198" ref="judy"/>
+    <file name="draw.css" crc="4180607989" ref="draw"/>
+    <file name="abour.css" crc="306851417" ref="abour"/>
+    <file name="reptile.css" crc="4225147543" ref="reptile"/>
+    <file name="light.css" crc="535914600" ref="light"/>
+    <file name="index.css" crc="4048670420" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="img_3876.jpg" crc="3963359265" seo="true" mt="1556460127000"/>
+    <file name="img_3919.jpg" crc="4064209653" seo="true" mt="1556460389000"/>
+    <file name="img_3849.jpg" crc="403366305" seo="true" mt="1556459948000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:draw:judy:reptile:light:poster:abour"/>
+    <file name="museutils.js" crc="183364071" ref="index:draw:judy:reptile:light:poster:abour"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:draw:judy:reptile:light:poster"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:draw:judy:reptile:light:poster:abour"/>
+  </folder>
+  <folder name="images">
+    <file name="u128-4.png" crc="3973505046" ref="index"/>
+    <file name="u121-4.png" crc="3973077893" ref="index"/>
+    <file name="u130-5.png" crc="55392264" ref="index"/>
+    <file name="心靈構成1.jpg" crc="3782194230" ref="index"/>
+    <file name="u185-9.png" crc="523690261" ref="index"/>
+    <file name="jpeg 影像-84568f7482d9-1.jpg" crc="534661389" ref="index"/>
+    <file name="jpeg 影像-b2f6117d37c2-1.jpg" crc="522757086" ref="index"/>
+    <file name="心靈自白2.jpg" crc="3872112949" ref="index"/>
+    <file name="設計繪畫7.jpg" crc="3985540351" ref="index"/>
+    <file name="u183-6.png" crc="3922240896" ref="index"/>
+    <file name="大寶寶1.jpg" crc="518693431" ref="index"/>
+    <file name="靈光載體2-u163-fr.jpg" crc="170202007" ref="index"/>
+    <file name="u180-4.png" crc="392872190" ref="index"/>
+    <file name="人體舞動2.jpg" crc="3873749912" ref="index"/>
+    <file name="u178-6.png" crc="4276765604" ref="index"/>
+    <file name="u386-4.png" crc="490190684" ref="index"/>
+    <file name="u187-4.png" crc="3848203330" ref="index"/>
+    <file name="u367-9.png" crc="523690261" ref="draw"/>
+    <file name="u250-4.png" crc="3952646835" ref="draw"/>
+    <file name="img_6272.jpg" crc="4051022217" ref="draw"/>
+    <file name="img_6365.jpg" crc="201211456" ref="draw"/>
+    <file name="img_6208.jpg" crc="26819806" ref="draw"/>
+    <file name="img_6208-u227-fr.jpg" crc="158574467" ref="draw"/>
+    <file name="u377-4.png" crc="4152729324" ref="draw"/>
+    <file name="u511-4.png" crc="3848203330" ref="draw"/>
+    <file name="u368-9.png" crc="523690261" ref="judy"/>
+    <file name="u259-4.png" crc="3952646835" ref="judy"/>
+    <file name="img_8359.jpg" crc="4028814885" ref="judy"/>
+    <file name="img_8371.jpg" crc="4210234524" ref="judy"/>
+    <file name="u364-4.png" crc="139018255" ref="judy"/>
+    <file name="u366-4.png" crc="3761108403" ref="judy"/>
+    <file name="u513-4.png" crc="3848203330" ref="judy"/>
+    <file name="u372-9.png" crc="523690261" ref="reptile"/>
+    <file name="u371-4.png" crc="3952646835" ref="reptile"/>
+    <file name="img_6262.jpg" crc="210525341" ref="reptile"/>
+    <file name="img_6261.jpg" crc="3784776385" ref="reptile"/>
+    <file name="u515-4.png" crc="3848203330" ref="reptile"/>
+    <file name="u325-4.png" crc="530775428" ref="light"/>
+    <file name="u324-4.png" crc="3952646835" ref="light"/>
+    <file name="靈光載體3.jpg" crc="404750840" ref="light"/>
+    <file name="靈光載體5.jpg" crc="3823263237" ref="light"/>
+    <file name="靈光載體2.jpg" crc="3800039531" ref="light"/>
+    <file name="靈光載體1.jpg" crc="4122717583" ref="light"/>
+    <file name="u519-4.png" crc="3848203330" ref="light"/>
+    <file name="u375-9.png" crc="523690261" ref="poster"/>
+    <file name="u374-4.png" crc="3952646835" ref="poster"/>
+    <file name="大二上主軸 主視覺2.jpg" crc="15570441" ref="poster"/>
+    <file name="img_8599.jpg" crc="4030281165" ref="poster"/>
+    <file name="img_8450.jpg" crc="372326606" ref="poster"/>
+    <file name="u378-4.png" crc="101498457" ref="poster"/>
+    <file name="u517-4.png" crc="3848203330" ref="poster"/>
+    <file name="u534-9.png" crc="523690261" ref="abour"/>
+    <file name="u533-4.png" crc="3952646835" ref="abour"/>
+    <file name="img_2203.jpg" crc="403687455" seo="true" ref="abour"/>
+    <file name="u543-6.png" crc="4057590744" ref="abour"/>
+    <file name="u536-4-a.png" crc="3848203330" ref="abour"/>
+  </folder>
+  <file name="index.html" crc="4130838214" seo="true" mt="1578500276418" redirect="true"/>
+  <file name="draw.html" crc="3861607795" seo="true" mt="1578500273955" redirect="true"/>
+  <file name="judy.html" crc="191238765" seo="true" mt="1578500274476" redirect="true"/>
+  <file name="reptile.html" crc="62826395" seo="true" mt="1578500274578" redirect="true"/>
+  <file name="light.html" crc="4068514721" seo="true" mt="1578500276106" redirect="true"/>
+  <file name="poster.html" crc="95692162" seo="true" mt="1578500275510" redirect="true"/>
+  <file name="abour.html" crc="4227412984" seo="true" mt="1578467427239" redirect="true"/>
+</manifest>
